@@ -1,0 +1,9 @@
+/node_modules
+/baudioStream/node_modules
+/Express Application that uses streams/node_modules
+
+*.logs
+npm-debug.log*
+
+.npm
+.env
